@@ -9,11 +9,11 @@ see : https://docs.microsoft.com/ja-jp/windows/mixed-reality/mrtk-unity/?view=mr
 see : https://docs.unity3d.com/Packages/com.unity.barracuda@1.0/manual/index.html
 
 ## この公開用リポジトリは以下の内容を含みます。
-### build 
+### - build 
 Hololens2向けにビルド済みの焼肉インタラクションアプリケーションです。
 
-### hololens2_yakiniku_resources.unitypackage
+### - hololens2_yakiniku_resources.unitypackage
 アプリケーションに利用している推論用コード・ホログラムリソース・3D座標再構成用プログラム等を含むunityパッケージです。
 
-### SceneAssets
+### - SceneAssets
 hololens2_yakiniku_resources.unitypackageに含まれる内容と同様のアセットが入ったフォルダです。
