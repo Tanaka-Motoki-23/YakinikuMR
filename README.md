@@ -11,8 +11,6 @@ see : https://docs.unity3d.com/Packages/com.unity.barracuda@1.0/manual/index.htm
 - - -
 
 ## この公開用リポジトリは以下の内容を含みます。
- - build  
-Hololens2向けにビルド済みの焼肉インタラクションアプリケーションです。
 
  - hololens2_yakiniku_resources.unitypackage  
 アプリケーションに実装した推論用コード・ホログラムリソース・3D座標再構成用プログラム等を含むunityパッケージです。
