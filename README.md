@@ -1,4 +1,4 @@
-# YakinikuMR
+# YakinikuMR(焼肉MR)
 Hololens2と物体検出モデルを利用して、焼肉に新たなエンターテイメント性を持たせるアプリケーションです。
 
 ## HoloLens2+Unityの開発環境構築
