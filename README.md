@@ -19,3 +19,7 @@ Hololens2向けにビルド済みの焼肉インタラクションアプリケ�
 
  - SceneAssets  
 上記パッケージ(hololens2_yakiniku_resources.unitypackage)に含まれる内容と同様のアセットが入ったフォルダです。
+
+- - -
+
+## アプリケーション概要
