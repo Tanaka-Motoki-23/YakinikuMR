@@ -15,7 +15,7 @@ see : https://docs.unity3d.com/Packages/com.unity.barracuda@1.0/manual/index.htm
 Hololens2向けにビルド済みの焼肉インタラクションアプリケーションです。
 
  - hololens2_yakiniku_resources.unitypackage  
-アプリケーションに利用している推論用コード・ホログラムリソース・3D座標再構成用プログラム等を含むunityパッケージです。
+アプリケーションに実装した推論用コード・ホログラムリソース・3D座標再構成用プログラム等を含むunityパッケージです。
 
  - SceneAssets  
 上記パッケージ(hololens2_yakiniku_resources.unitypackage)に含まれる内容と同様のアセットが入ったフォルダです。
