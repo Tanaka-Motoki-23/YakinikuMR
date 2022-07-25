@@ -1,4 +1,7 @@
 # YakinikuMR(焼肉MR)
+
+DICOMOシンポジウム2022 pp. 989 - 995: https://tsys.jp/dicomo/2022/program/program_abst.html#5E-3
+
 Hololens2と物体検出モデルを利用して、焼肉に新たなエンターテイメント性を持たせるアプリケーションです。
 
 ## HoloLens2+Unityの開発環境構築
